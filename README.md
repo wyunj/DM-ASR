@@ -13,3 +13,4 @@ Offline:
 - [Mandarin Demo](demo_video/demo_zh.mp4)
 
 Our DM-ASR system can support both online and offline inference.
+The paper is available at: [https://arxiv.org/abs/2604.22467]
